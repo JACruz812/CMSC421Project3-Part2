@@ -1,0 +1,9 @@
+This is a readme for Tony Cruz's CMSC421 Project 2 Test Drivers
+	For testing i followed the recommended process on the project description by manipulating the project3 part1 test into a rendition for part2. I decided to create two separate thread tests and 1 read test. I combined all of these into one main python driver to active all the others.
+
+
+The make file works as so....
+run [make] command in current dir, openTest & readWriteTest dirs
+run [python3 test.py] in proj3test dir to run all tests back to back
+
+Thank you for grading my project, I hope you enjoyed yourself.
